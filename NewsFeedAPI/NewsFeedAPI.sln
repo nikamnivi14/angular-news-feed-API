@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsFeedAPI", "NewsFeedAPI.csproj", "{99533EF4-F5C0-415F-A801-976C4F6500F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFeeds.Tests", "..\NewsFeeds.Tests\NewsFeeds.Tests.csproj", "{60045868-4E8A-4051-B4CA-136F3F3D9534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99533EF4-F5C0-415F-A801-976C4F6500F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99533EF4-F5C0-415F-A801-976C4F6500F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99533EF4-F5C0-415F-A801-976C4F6500F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99533EF4-F5C0-415F-A801-976C4F6500F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60045868-4E8A-4051-B4CA-136F3F3D9534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60045868-4E8A-4051-B4CA-136F3F3D9534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60045868-4E8A-4051-B4CA-136F3F3D9534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60045868-4E8A-4051-B4CA-136F3F3D9534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7D5FCD-3E4E-4D6B-A597-7C0AFD9880FB}
+	EndGlobalSection
+EndGlobal

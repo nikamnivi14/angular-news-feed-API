@@ -1,0 +1,102 @@
+  [
+    {
+      "by": "anticorporate",
+      "descendants": 0,
+      "id": 38519012,
+      "score": 33,
+      "time": 1701706198,
+      "title": "Harvard gutted team examining Facebook Files following $500M Zuckerberg donation",
+      "type": "story",
+      "url": "https://live-whistleblower-aid.pantheonsite.io/joan-donovan-press-release/"
+    },
+    {
+      "by": "DanielSlauth",
+      "descendants": 0,
+      "id": 38516795,
+      "score": 72,
+      "time": 1701695430,
+      "title": "Launch HN: Slauth (YC S22) – auto-generate secure IAM policies for AWS and GCP",
+      "type": "story",
+      "url": null
+    },
+    {
+      "by": "ash",
+      "descendants": 0,
+      "id": 38516331,
+      "score": 66,
+      "time": 1701692112,
+      "title": "Gobs of data (2011)",
+      "type": "story",
+      "url": "https://go.dev/blog/gob"
+    },
+    {
+      "by": "giis",
+      "descendants": 0,
+      "id": 38513402,
+      "score": 34,
+      "time": 1701660344,
+      "title": "A minimum complete tutorial of Linux ext4 file system (2017)",
+      "type": "story",
+      "url": "https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/"
+    },
+    {
+      "by": "EastLondonCoder",
+      "descendants": 0,
+      "id": 38517873,
+      "score": 14,
+      "time": 1701701036,
+      "title": "A real case of Bobby Tables?",
+      "type": "story",
+      "url": "https://www.parallelparliament.co.uk/mp/alison-thewliss/bill/2022-23/economiccrimeandcorporatetransparency#9369E91A-2B4D-445F-A66B-1A5071727932"
+    },
+    {
+      "by": "pforret",
+      "descendants": 0,
+      "id": 38506460,
+      "score": 71,
+      "time": 1701604934,
+      "title": "Now I can just print that video",
+      "type": "story",
+      "url": "https://blog.forret.com/2023/12/01/printthatvideo/"
+    },
+    {
+      "by": "rbanffy",
+      "descendants": 0,
+      "id": 38516123,
+      "score": 64,
+      "time": 1701690428,
+      "title": "The 8-bit era: Eight iconic processor designs",
+      "type": "story",
+      "url": "https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight"
+    },
+    {
+      "by": "bookofjoe",
+      "descendants": 0,
+      "id": 38517846,
+      "score": 16,
+      "time": 1701700898,
+      "title": "Oxford Word of the Year",
+      "type": "story",
+      "url": "https://languages.oup.com/word-of-the-year/2023/"
+    },
+    {
+      "by": "todsacerdoti",
+      "descendants": 0,
+      "id": 38515082,
+      "score": 64,
+      "time": 1701679902,
+      "title": "Inércia 2023",
+      "type": "story",
+      "url": "https://celso.io/posts/2023/12/03/inercia-2023/"
+    },
+    {
+      "by": "sarahboyce",
+      "descendants": 0,
+      "id": 38517099,
+      "score": 85,
+      "time": 1701697489,
+      "title": "Django 5.0 Is Released",
+      "type": "story",
+      "url": "https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/"
+    }
+  ] 
