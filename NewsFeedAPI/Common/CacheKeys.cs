@@ -9,7 +9,8 @@ namespace NewsFeedAPI.Common
 	public static class CacheKeys
 	{
 		public static string newsList => "_newsList";
-		public static string  pageNumber => "_pageNumber";
+		public static string topnewsList => "_topnewsList";
+
 	}
  
      

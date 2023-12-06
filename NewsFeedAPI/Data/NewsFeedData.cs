@@ -74,19 +74,19 @@ namespace NewsFeedAPI.Data
                 //grab all items returned from the async tasks 
                 foreach (var item in newsFeedDetails)
                 {
-                    if (item.url != "" || item.url != null)
+                    if (item.url != "")
                     {
                         Feeds obj = new Feeds();
-                        obj.by = item.by;
+                        obj.by = item?.by;
                         obj.id = item.id;
                         obj.score = item.score;
                         obj.time = item.time;
-                        obj.type = item.type;
-                        obj.title = item.title;
-                        obj.url = item.url;
+                        obj.type = item?.type;
+                        obj.title = item?.title;
+                        obj.url = item?.url;
                         newsFeedList.Add(obj);
                     }
-                   
+
                 }
 
             }
@@ -96,7 +96,7 @@ namespace NewsFeedAPI.Data
                 throw ex;
             }
 
-             
+
             return newsFeedList;
         }
 
